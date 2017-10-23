@@ -1,0 +1,11 @@
+p {
+	color: blue;
+}
+
+.mydiv {
+	background-color:red;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
